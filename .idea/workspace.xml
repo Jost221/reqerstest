@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d02b8304-cbe4-4088-98a2-ecd89a268474" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/schemas/bad-request-schema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/schemas/explorer-schema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/schemas/logout-succes-schema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/schemas/not-found-scheme.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/schemas/systems-of-galaxy-schema.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Example.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2ZopKhSo1mKCYN4q3kC5uNFP7fc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.Example.testAuthorizedUserExit.executor": "Run",
+    "TestNG.Example.testGetAllGalaxies.executor": "Run",
+    "TestNG.Example.testListUsers.executor": "Run",
+    "TestNG.Example.testNonExistentRoleUserAuthorization.executor": "Run",
+    "TestNG.Example.testUnregisteredUserAuthorization.executor": "Run",
+    "git-widget-placeholder": "dev",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/s1uad_dw/makeMeTopTestAPI"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/schemas" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Example.testGetAllSystemsOfGalaxy">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="makeMeTopTestAPI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="makeMeTopTestAPI" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example.testAuthorizedUserExit" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="makeMeTopTestAPI" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Example" />
+      <option name="METHOD_NAME" value="testAuthorizedUserExit" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example.testGetAllGalaxies" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="makeMeTopTestAPI" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Example" />
+      <option name="METHOD_NAME" value="testGetAllGalaxies" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example.testGetAllSystemsOfGalaxy" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="makeMeTopTestAPI" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Example" />
+      <option name="METHOD_NAME" value="testGetAllSystemsOfGalaxy" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example.testNonExistentRoleUserAuthorization" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="makeMeTopTestAPI" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Example" />
+      <option name="METHOD_NAME" value="testNonExistentRoleUserAuthorization" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example.testUnregisteredUserAuthorization" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="makeMeTopTestAPI" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Example" />
+      <option name="METHOD_NAME" value="testUnregisteredUserAuthorization" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Example.testGetAllSystemsOfGalaxy" />
+        <item itemvalue="TestNG.Example.testAuthorizedUserExit" />
+        <item itemvalue="TestNG.Example.testUnregisteredUserAuthorization" />
+        <item itemvalue="TestNG.Example.testNonExistentRoleUserAuthorization" />
+        <item itemvalue="TestNG.Example.testGetAllGalaxies" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d02b8304-cbe4-4088-98a2-ecd89a268474" name="Changes" comment="" />
+      <created>1703098223508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703098223508</updated>
+    </task>
+    <servers />
+  </component>
+</project>
